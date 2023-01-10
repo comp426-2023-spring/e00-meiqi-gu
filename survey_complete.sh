@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=tired sloth car soba face11
+EXAMCODE=https://classroom.github.com/a/icG2oERU
 
 echo ${EXAMCODE}
