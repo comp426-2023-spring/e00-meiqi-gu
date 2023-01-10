@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=tired sloth car soba face11
 
 echo ${EXAMCODE}
